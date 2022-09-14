@@ -1,0 +1,417 @@
+action	year	country	count
+identified	1853	Australia	1
+identified	1879	Barbados	1
+identified	1880	United States	1
+identified	1884	Venezuela	1
+identified	1885	Spain	1
+identified	1885	United States	2
+identified	1887	Madagascar	1
+identified	1888	United States	3
+identified	1889	United States	6
+identified	1890	United States	9
+identified	1891	Costa Rica	1
+identified	1897	United States	2
+identified	1899	Indonesia	9
+identified	1899	Philippines	1
+identified	1899	United States	3
+identified	1900	Indonesia	2
+identified	1900	Japan	4
+identified	1900	Norway	1
+identified	1901	Norway	2
+identified	1902	Norway	1
+identified	1902	United States	9
+identified	1903	Norway	3
+identified	1903	United States	1
+identified	1904	United States	4
+identified	1906	Japan	7
+identified	1908	Norway	1
+identified	1908	Philippines	4
+identified	1909	Indonesia	3
+identified	1909	Philippines	15
+identified	1910	Norway	1
+identified	1911	Norway	1
+identified	1912	Norway	1
+identified	1912	United States	2
+identified	1913	Norway	2
+identified	1914	Australia	5
+identified	1915	Norway	1
+identified	1915	United States	2
+identified	1916	United States	2
+identified	1920	Brazil	1
+identified	1921	Norway	1
+identified	1922	Indonesia	2
+identified	1922	Norway	6
+identified	1922	United States	18
+identified	1923	Norway	16
+identified	1924	Norway	6
+identified	1924	United States	2
+identified	1925	Brazil	1
+identified	1925	Norway	6
+identified	1925	United States	1
+identified	1926	Norway	6
+identified	1928	Egypt	1
+identified	1928	Norway	2
+identified	1929	Indonesia	4
+identified	1929	Japan	2
+identified	1929	Norway	6
+identified	1930	Norway	1
+identified	1930	United States	1
+identified	1931	Norway	4
+identified	1932	Canada	2
+identified	1932	Norway	9
+identified	1932	United States	6
+identified	1933	British Virgin Islands	1
+identified	1933	Norway	8
+identified	1933	Puerto Rico	1
+identified	1934	Canada	4
+identified	1934	Ecuador	1
+identified	1934	Norway	5
+identified	1934	United States	5
+identified	1935	Norway	5
+identified	1935	United States	3
+identified	1936	Canada	5
+identified	1936	Mexico	1
+identified	1936	Norway	3
+identified	1936	United States	2
+identified	1937	Norway	9
+identified	1937	United States	2
+identified	1938	Norway	1
+identified	1938	United States	3
+identified	1939	United States	8
+identified	1940	United States	1
+identified	1941	United States	2
+identified	1942	Norway	1
+identified	1943	Australia	1
+identified	1943	Canada	1
+identified	1945	Canada	1
+identified	1945	United States	1
+identified	1946	Canada	1
+identified	1948	Australia	1
+identified	1948	United States	1
+identified	1949	Mexico	1
+identified	1949	United States	4
+identified	1950	Canada	14
+identified	1950	United States	1
+identified	1951	Canada	6
+identified	1951	Norway	19
+identified	1951	United States	7
+identified	1952	Canada	5
+identified	1952	Norway	1
+identified	1952	United States	4
+identified	1954	Canada	1
+identified	1954	Norway	4
+identified	1954	United States	2
+identified	1955	Norway	5
+identified	1956	Canada	2
+identified	1956	Norway	5
+identified	1956	United States	5
+identified	1957	Brazil	4
+identified	1957	Norway	8
+identified	1957	United States	11
+identified	1957	Venezuela	2
+identified	1958	French Guiana	1
+identified	1958	Norway	38
+identified	1958	St. Helena	1
+identified	1958	Suriname	1
+identified	1958	United States	18
+identified	1959	Canada	5
+identified	1959	China	3
+identified	1959	Mexico	2
+identified	1959	Norway	11
+identified	1959	United States	149
+identified	1960	China	1
+identified	1960	Marshall Islands	2
+identified	1960	Norway	35
+identified	1960	United States	230
+identified	1961	Bahamas	2
+identified	1961	Canada	6
+identified	1961	United States	322
+identified	1962	Canada	5
+identified	1962	Mexico	1
+identified	1962	Netherlands Antilles	1
+identified	1962	Norway	6
+identified	1962	United States	93
+identified	1963	American Samoa	1
+identified	1963	Brazil	5
+identified	1963	Burma	4
+identified	1963	Canada	2
+identified	1963	Colombia	1
+identified	1963	Dominican Republic	1
+identified	1963	Fiji	1
+identified	1963	French Guiana	1
+identified	1963	French Polynesia	1
+identified	1963	India	10
+identified	1963	Indonesia	1
+identified	1963	Iran	4
+identified	1963	Madagascar	8
+identified	1963	Malaysia	1
+identified	1963	Mauritius	3
+identified	1963	Mexico	2
+identified	1963	Netherlands Antilles	1
+identified	1963	Norway	5
+identified	1963	Oman	2
+identified	1963	Papua New Guinea	1
+identified	1963	Solomon Islands	4
+identified	1963	Suriname	1
+identified	1963	Thailand	1
+identified	1963	United States	73
+identified	1963	Venezuela	3
+identified	1964	Bahamas	2
+identified	1964	Barbados	2
+identified	1964	Canada	3
+identified	1964	Colombia	3
+identified	1964	Comoros	4
+identified	1964	Dominica	1
+identified	1964	Ecuador	1
+identified	1964	France	1
+identified	1964	Ghana	1
+identified	1964	Honduras	2
+identified	1964	India	1
+identified	1964	Japan	2
+identified	1964	Kenya	2
+identified	1964	Madagascar	25
+identified	1964	Maldives	2
+identified	1964	Mozambique	12
+identified	1964	Nicaragua	4
+identified	1964	Norway	10
+identified	1964	Seychelles	2
+identified	1964	Somalia	5
+identified	1964	South Africa	8
+identified	1964	Tanzania	2
+identified	1964	United States	24
+identified	1965	Australia	1
+identified	1965	Bahamas	1
+identified	1965	Canada	3
+identified	1965	Chile	1
+identified	1965	Colombia	2
+identified	1965	Dominican Republic	1
+identified	1965	Madagascar	4
+identified	1965	Malaysia	1
+identified	1965	New Zealand	1
+identified	1965	Norway	16
+identified	1965	Panama	1
+identified	1965	United States	17
+identified	1965	Venezuela	2
+identified	1966	Anguilla	1
+identified	1966	Canada	1
+identified	1966	Chile	1
+identified	1966	Colombia	1
+identified	1966	Ecuador	1
+identified	1966	French Polynesia	1
+identified	1966	Jamaica	1
+identified	1966	New Zealand	5
+identified	1966	Norway	4
+identified	1966	Panama	3
+identified	1966	Peru	3
+identified	1966	St. Lucia	3
+identified	1966	Thailand	13
+identified	1966	United States	142
+identified	1967	Bahamas	3
+identified	1967	Brazil	1
+identified	1967	Mexico	4
+identified	1967	New Zealand	1
+identified	1967	Norway	6
+identified	1967	Panama	1
+identified	1967	Trinidad and Tobago	3
+identified	1967	United States	6
+identified	1968	Australia	1
+identified	1968	Bahamas	5
+identified	1968	Belize	1
+identified	1968	Colombia	6
+identified	1968	French Guiana	5
+identified	1968	Guyana	2
+identified	1968	Honduras	3
+identified	1968	Mexico	7
+identified	1968	New Zealand	2
+identified	1968	Norway	25
+identified	1968	Panama	1
+identified	1968	Suriname	2
+identified	1968	United States	7
+identified	1968	Venezuela	12
+identified	1969	Anguilla	1
+identified	1969	Antigua and Barbuda	1
+identified	1969	Australia	1
+identified	1969	British Virgin Islands	1
+identified	1969	Canada	5
+identified	1969	Mexico	3
+identified	1969	Norway	14
+identified	1969	Panama	3
+identified	1969	St. Lucia	2
+identified	1969	St. Vincent and the Grenadines	3
+identified	1969	Trinidad And Tobago	3
+identified	1969	United States	4
+identified	1970	Australia	1
+identified	1970	Bahamas	1
+identified	1970	Canada	4
+identified	1970	Dominican Republic	1
+identified	1970	Mexico	1
+identified	1970	Norway	1
+identified	1970	Papua New Guinea	1
+identified	1970	South Korea	1
+identified	1970	United States	3
+identified	1971	Australia	3
+identified	1971	Canada	1
+identified	1971	Mexico	3
+identified	1971	Russian Federation	1
+identified	1971	Taiwan	1
+identified	1971	United States	13
+identified	1972	Australia	1
+identified	1972	Canada	5
+identified	1972	Mexico	6
+identified	1972	New Zealand	2
+identified	1972	Taiwan	1
+identified	1972	Thailand	1
+identified	1972	United States	2
+identified	1973	Australia	6
+identified	1973	Bahamas	4
+identified	1973	Madagascar	2
+identified	1973	Turks And Caicos Islands	1
+identified	1973	United States	3
+identified	1974	Bahamas	1
+identified	1974	Barbados	7
+identified	1974	Bermuda	2
+identified	1974	Canada	2
+identified	1974	Nicaragua	1
+identified	1974	Panama	1
+identified	1974	United States	2
+identified	1975	Australia	2
+identified	1975	Colombia	1
+identified	1975	Comoros	1
+identified	1975	Indonesia	2
+identified	1975	Israel	1
+identified	1975	Pakistan	2
+identified	1975	Thailand	1
+identified	1975	United States	5
+identified	1976	Australia	2
+identified	1976	Canada	1
+identified	1976	Philippines	5
+identified	1976	United States	10
+identified	1977	Bahamas	1
+identified	1977	Canada	5
+identified	1977	New Caledonia	1
+identified	1977	United States	8
+identified	1978	Bahamas	1
+identified	1978	Philippines	63
+identified	1978	United States	1
+identified	1979	Canada	1
+identified	1979	Micronesia	2
+identified	1979	New Zealand	1
+identified	1980	Seychelles	1
+identified	1980	United States	335
+identified	1981	Australia	6
+identified	1981	Canada	3
+identified	1981	Japan	5
+identified	1981	Papua New Guinea	1
+identified	1981	South Africa	4
+identified	1981	United States	540
+identified	1982	Australia	7
+identified	1982	Mauritius	2
+identified	1982	New Caledonia	1
+identified	1982	South Africa	2
+identified	1982	United States	479
+identified	1983	Australia	3
+identified	1983	Mauritius	2
+identified	1983	South Africa	3
+identified	1983	United States	146
+identified	1984	Australia	17
+identified	1984	Canada	2
+identified	1984	Guam	3
+identified	1984	New Caledonia	6
+identified	1985	Australia	4
+identified	1985	Canada	14
+identified	1985	New Caledonia	40
+identified	1985	Philippines	3
+identified	1985	United States	17
+identified	1986	Australia	16
+identified	1986	Canada	3
+identified	1986	New Caledonia	53
+identified	1986	South Africa	2
+identified	1987	Australia	1
+identified	1987	New Caledonia	17
+identified	1987	South Africa	3
+identified	1987	United States	3
+identified	1988	Australia	5
+identified	1988	Canada	4
+identified	1988	Japan	1
+identified	1988	New Caledonia	7
+identified	1989	Mauritius	3
+identified	1989	Mexico	1
+identified	1989	New Caledonia	31
+identified	1989	United States	1
+identified	1990	French Polynesia	8
+identified	1990	New Caledonia	3
+identified	1990	Pakistan	1
+identified	1991	Canada	3
+identified	1991	French Polynesia	7
+identified	1991	Indonesia	6
+identified	1991	Japan	3
+identified	1991	Maldives	2
+identified	1991	New Caledonia	2
+identified	1991	Taiwan	1
+identified	1992	Japan	1
+identified	1992	New Caledonia	5
+identified	1992	Seychelles	5
+identified	1992	United States	1
+identified	1992	Wallis and Futuna Islands	10
+identified	1993	Australia	1
+identified	1993	Japan	1
+identified	1993	New Caledonia	29
+identified	1994	Bahamas	1
+identified	1994	Canada	1
+identified	1994	French Polynesia	2
+identified	1994	New Caledonia	7
+identified	1994	New Zealand	1
+identified	1994	Taiwan	2
+identified	1994	Vanuatu	7
+identified	1995	French Polynesia	1
+identified	1995	New Zealand	2
+identified	1995	Taiwan	22
+identified	1995	United States	1
+identified	1996	Taiwan	1
+identified	1997	Australia	30
+identified	1997	French Polynesia	13
+identified	1997	Japan	1
+identified	1997	Seychelles	2
+identified	1998	Fiji	8
+identified	1998	Thailand	1
+identified	1998	United States	3
+identified	1999	Australia	17
+identified	1999	New Caledonia	4
+identified	1999	Sao Tome and Principe	1
+identified	1999	Thailand	1
+identified	1999	United States	2
+identified	2000	Australia	3
+identified	2000	Guam	4
+identified	2000	New Caledonia	2
+identified	2000	South Africa	1
+identified	2000	Taiwan	2
+identified	2000	Tonga	1
+identified	2001	New Caledonia	2
+identified	2001	Solomon Islands	1
+identified	2002	French Polynesia	14
+identified	2002	United States	2
+identified	2003	New Caledonia	5
+identified	2004	Philippines	8
+identified	2004	Solomon Islands	21
+identified	2005	New Caledonia	23
+identified	2005	Philippines	2
+identified	2005	Vanuatu	3
+identified	2006	Vanuatu	19
+identified	2008	United States	2
+recorded	1959	United States	4
+recorded	1960	United States	1
+recorded	1961	United States	23
+recorded	1965	Mexico	1
+recorded	1966	Ecuador	14
+recorded	1966	Mexico	2
+recorded	1966	Panama	6
+recorded	1966	Peru	23
+recorded	1971	United States	1
+recorded	1974	Barbados	2
+recorded	1974	United States	1
+recorded	1975	United States	1
+recorded	1976	United States	334
+recorded	1977	United States	17
+recorded	1978	United States	7
+recorded	1981	United States	1
+recorded	1988	United States	1

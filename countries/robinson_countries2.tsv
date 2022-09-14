@@ -1,0 +1,1650 @@
+	action	year	country	count
+0	identified	1001	Brazil	1
+1	identified	1872	Austria	1
+2	identified	1876	Ecuador	1
+3	identified	1885	Bolivia	1
+4	identified	1889	United States	2
+5	identified	1890	Mexico	1
+6	identified	1891	Brazil	1
+7	identified	1892	Bolivia	1
+8	identified	1893	Samoa	1
+9	identified	1897	Mexico	1
+10	identified	1899	Mexico	1
+11	identified	1900	United States	1
+12	identified	1902	Bolivia	1
+13	identified	1906	Samoa	1
+14	identified	1907	Bolivia	1
+15	identified	1909	United States	1
+16	identified	1912	Argentina	8
+17	identified	1912	Mexico	1
+18	identified	1913	Argentina	2
+19	identified	1913	United States	30
+20	identified	1917	Argentina	1
+21	identified	1919	Argentina	3
+22	identified	1919	Bolivia	1
+23	identified	1920	Argentina	1
+24	identified	1920	Bolivia	2
+25	identified	1921	American Samoa	1
+26	identified	1921	French Polynesia	3
+27	identified	1922	French Polynesia	1
+28	identified	1922	United States	3
+29	identified	1923	French Polynesia	1
+30	identified	1923	United States	2
+31	identified	1924	Brazil	1
+32	identified	1924	Samoa	1
+33	identified	1924	United States	3
+34	identified	1925	Argentina	1
+35	identified	1926	Caribbean	1
+36	identified	1926	French Polynesia	1
+37	identified	1927	Argentina	3
+38	identified	1927	Bolivia	1
+39	identified	1927	French Polynesia	1
+40	identified	1928	Argentina	2
+41	identified	1929	Argentina	5
+42	identified	1929	French Polynesia	1
+43	identified	1929	Paraguay	3
+44	identified	1929	Samoa	1
+45	identified	1930	Argentina	19
+46	identified	1930	Brazil	18
+47	identified	1930	Colombia	1
+48	identified	1930	French Polynesia	1
+49	identified	1930	Paraguay	1
+50	identified	1931	Argentina	7
+51	identified	1931	French Polynesia	1
+52	identified	1931	Paraguay	1
+53	identified	1931	Samoa	1
+54	identified	1931	Tanzania	1
+55	identified	1932	Argentina	3
+56	identified	1932	Guatemala	1
+57	identified	1933	Argentina	3
+58	identified	1933	Federated States of Micronesia	1
+59	identified	1933	U.S. Administered Islands (Polynesia)	1
+60	identified	1934	Argentina	7
+61	identified	1934	French Polynesia	1
+62	identified	1934	Pitcairn Islands	1
+63	identified	1934	United States	1
+64	identified	1935	American Samoa	1
+65	identified	1935	Argentina	1
+66	identified	1935	Bolivia	1
+67	identified	1937	Argentina	1
+68	identified	1937	Costa Rica	1
+69	identified	1938	Kenya	3
+70	identified	1938	Uganda	4
+71	identified	1939	Bolivia	3
+72	identified	1939	Ecuador	1
+73	identified	1939	Kenya	8
+74	identified	1939	Panama	1
+75	identified	1941	United States	1
+76	identified	1942	Brazil	1
+77	identified	1943	Tanzania	1
+78	identified	1944	Caribbean	1
+79	identified	1944	Colombia	1
+80	identified	1944	India	2
+81	identified	1944	Mexico	11
+82	identified	1945	Guatemala	1
+83	identified	1945	Mexico	10
+84	identified	1945	Uganda	1
+85	identified	1946	Federated States of Micronesia	2
+86	identified	1946	Mexico	2
+87	identified	1946	Panama	1
+88	identified	1946	Republic of the Marshall Islands	3
+89	identified	1947	Bolivia	1
+90	identified	1947	Federated States of Micronesia	1
+91	identified	1948	Argentina	1
+92	identified	1948	Brazil	1
+93	identified	1948	Federated States of Micronesia	1
+94	identified	1949	Bolivia	1
+95	identified	1949	Costa Rica	2
+96	identified	1949	Federated States of Micronesia	3
+97	identified	1949	Guatemala	1
+98	identified	1949	Uganda	1
+99	identified	1950	Colombia	1
+100	identified	1950	Federated States of Micronesia	2
+101	identified	1950	French Polynesia	1
+102	identified	1950	Republic of the Marshall Islands	1
+103	identified	1950	Uganda	1
+104	identified	1950	United States	1
+105	identified	1951	Honduras	1
+106	identified	1952	Brazil	1
+107	identified	1952	Republic of the Marshall Islands	2
+108	identified	1952	Thailand	2
+109	identified	1952	United States	1
+110	identified	1953	Brazil	1
+111	identified	1953	Colombia	1
+112	identified	1953	Federated States of Micronesia	1
+113	identified	1953	United States	2
+114	identified	1954	Bolivia	1
+115	identified	1954	Canada	1
+116	identified	1954	Tanzania	1
+117	identified	1955	Brazil	1
+118	identified	1955	Canada	2
+119	identified	1955	Pakistan	1
+120	identified	1955	United States	50
+121	identified	1956	Brazil	1
+122	identified	1956	Uganda	2
+123	identified	1956	United States	5
+124	identified	1957	Ecuador	4
+125	identified	1957	Germany	1
+126	identified	1957	Kenya	4
+127	identified	1957	Mexico	2
+128	identified	1957	Rwanda	1
+129	identified	1957	Uganda	2
+130	identified	1957	United States	4
+131	identified	1958	Brazil	2
+132	identified	1958	Canada	3
+133	identified	1958	Chile	2
+134	identified	1958	Costa Rica	1
+135	identified	1958	Kenya	1
+136	identified	1958	United States	4
+137	identified	1958	Zimbabwe	1
+138	identified	1959	Brazil	1
+139	identified	1959	Colombia	8
+140	identified	1959	Ecuador	6
+141	identified	1959	Germany	1
+142	identified	1959	Mexico	1
+143	identified	1959	Tanzania	2
+144	identified	1959	United States	10
+145	identified	1960	Canada	1
+146	identified	1960	Colombia	1
+147	identified	1960	Costa Rica	1
+148	identified	1960	Kenya	3
+149	identified	1960	Mexico	14
+150	identified	1960	United States	12
+151	identified	1961	Brazil	1
+152	identified	1961	Ecuador	6
+153	identified	1961	Kenya	11
+154	identified	1961	Mexico	2
+155	identified	1961	United States	2
+156	identified	1962	Brazil	4
+157	identified	1962	Caribbean	6
+158	identified	1962	Costa Rica	9
+159	identified	1962	Ecuador	2
+160	identified	1962	Mexico	200
+161	identified	1962	United States	14
+162	identified	1963	Bolivia	2
+163	identified	1963	Costa Rica	14
+164	identified	1963	Kenya	1
+165	identified	1963	Mexico	6
+166	identified	1963	Tanzania	1
+167	identified	1963	United States	30
+168	identified	1964	Brazil	31
+169	identified	1964	Chile	1
+170	identified	1964	Colombia	3
+171	identified	1964	French Polynesia	1
+172	identified	1964	Kenya	3
+173	identified	1964	Mexico	29
+174	identified	1964	Philippines	1
+175	identified	1964	Peru	1
+176	identified	1964	Thailand	3
+177	identified	1964	United States	12
+178	identified	1965	Brazil	18
+179	identified	1965	Chile	3
+180	identified	1965	Costa Rica	20
+181	identified	1965	Juan Fernandez	156
+182	identified	1965	Mexico	13
+183	identified	1965	Philippines	1
+184	identified	1965	Tanzania	4
+185	identified	1965	Thailand	2
+186	identified	1965	United States	4
+187	identified	1966	Bolivia	1
+188	identified	1966	Brazil	67
+189	identified	1966	Colombia	1
+190	identified	1966	Costa Rica	2
+191	identified	1966	Mexico	9
+192	identified	1966	Tanzania	1
+193	identified	1966	United States	1
+194	identified	1967	Brazil	19
+195	identified	1967	Colombia	1
+196	identified	1967	Costa Rica	3
+197	identified	1967	Mexico	2
+198	identified	1967	Panama	5
+199	identified	1967	Peru	1
+200	identified	1967	United States	2
+201	identified	1968	Brazil	36
+202	identified	1968	Chile	2
+203	identified	1968	Colombia	3
+204	identified	1968	Costa Rica	11
+205	identified	1968	Ecuador	5
+206	identified	1968	Mexico	2
+207	identified	1968	Panama	3
+208	identified	1968	United States	12
+209	identified	1969	Brazil	38
+210	identified	1969	Chile	3
+211	identified	1969	Colombia	2
+212	identified	1969	Costa Rica	4
+213	identified	1969	Panama	2
+214	identified	1970	Brazil	44
+215	identified	1970	Canada	2
+216	identified	1970	Costa Rica	5
+217	identified	1970	Honduras	1
+218	identified	1970	Panama	2
+219	identified	1970	Peru	1
+220	identified	1970	United States	9
+221	identified	1971	Argentina	5
+222	identified	1971	Brazil	67
+223	identified	1971	Chile	4
+224	identified	1971	Colombia	3
+225	identified	1971	Costa Rica	6
+226	identified	1971	Ecuador	1
+227	identified	1971	Honduras	1
+228	identified	1971	Mexico	1
+229	identified	1971	Panama	5
+230	identified	1971	Peru	2
+231	identified	1971	United States	2
+232	identified	1971	Venezuela	2
+233	identified	1972	Bolivia	3
+234	identified	1972	Brazil	56
+235	identified	1972	Canada	2
+236	identified	1972	Chile	2
+237	identified	1972	Colombia	1
+238	identified	1972	Costa Rica	7
+239	identified	1972	Mexico	2
+240	identified	1972	Panama	8
+241	identified	1972	Venezuela	11
+242	identified	1973	Belize	3
+243	identified	1973	Brazil	45
+244	identified	1973	Chile	3
+245	identified	1973	Colombia	2
+246	identified	1973	Costa Rica	7
+247	identified	1973	Mexico	4
+248	identified	1973	Panama	4
+249	identified	1973	Peru	2
+250	identified	1973	Venezuela	12
+251	identified	1974	Argentina	1
+252	identified	1974	Bolivia	14
+253	identified	1974	Brazil	41
+254	identified	1974	Colombia	14
+255	identified	1974	Costa Rica	1
+256	identified	1974	Ecuador	2
+257	identified	1974	Honduras	1
+258	identified	1974	Madagascar	2
+259	identified	1974	Mexico	4
+260	identified	1974	Panama	1
+261	identified	1974	Peru	1
+262	identified	1975	Brazil	30
+263	identified	1975	Colombia	2
+264	identified	1975	Mexico	1
+265	identified	1975	Paraguay	1
+266	identified	1975	Peru	4
+267	identified	1975	United States	1
+268	identified	1976	Brazil	86
+269	identified	1976	Colombia	6
+270	identified	1976	Costa Rica	7
+271	identified	1976	Ecuador	3
+272	identified	1976	Panama	1
+273	identified	1977	Brazil	14
+274	identified	1977	Chile	1
+275	identified	1977	Colombia	5
+276	identified	1977	Costa Rica	8
+277	identified	1977	Guatemala	1
+278	identified	1977	Panama	3
+279	identified	1977	Peru	1
+280	identified	1977	Venezuela	1
+281	identified	1978	Argentina	2
+282	identified	1978	Bolivia	7
+283	identified	1978	Brazil	51
+284	identified	1978	Chile	1
+285	identified	1978	Colombia	1
+286	identified	1978	Costa Rica	11
+287	identified	1978	Ecuador	1
+288	identified	1978	Panama	3
+289	identified	1978	Peru	14
+290	identified	1978	Venezuela	5
+291	identified	1979	Argentina	2
+292	identified	1979	Bolivia	2
+293	identified	1979	Brazil	34
+294	identified	1979	Chile	4
+295	identified	1979	Colombia	4
+296	identified	1979	Costa Rica	4
+297	identified	1979	Ecuador	4
+298	identified	1979	Mexico	4
+299	identified	1979	Panama	15
+300	identified	1979	Paraguay	1
+301	identified	1979	Peru	2
+302	identified	1979	United States	1
+303	identified	1979	Venezuela	3
+304	identified	1980	Bolivia	2
+305	identified	1980	Brazil	92
+306	identified	1980	Chile	1
+307	identified	1980	Ecuador	81
+308	identified	1980	Honduras	5
+309	identified	1980	Mexico	3
+310	identified	1980	Panama	1
+311	identified	1980	Peru	4
+312	identified	1980	United States	2
+313	identified	1980	Venezuela	3
+314	identified	1981	Bolivia	5
+315	identified	1981	Brazil	93
+316	identified	1981	Colombia	4
+317	identified	1981	Costa Rica	9
+318	identified	1981	Ecuador	2
+319	identified	1981	Mexico	4
+320	identified	1981	Panama	1
+321	identified	1981	Paraguay	2
+322	identified	1981	Peru	2
+323	identified	1981	Venezuela	19
+324	identified	1982	Bolivia	22
+325	identified	1982	Brazil	115
+326	identified	1982	Colombia	3
+327	identified	1982	Costa Rica	3
+328	identified	1982	Ecuador	9
+329	identified	1982	Honduras	5
+330	identified	1982	Mexico	1
+331	identified	1982	Panama	5
+332	identified	1982	Paraguay	5
+333	identified	1982	Peru	5
+334	identified	1982	Venezuela	22
+335	identified	1983	Bolivia	28
+336	identified	1983	Brazil	113
+337	identified	1983	Colombia	8
+338	identified	1983	Costa Rica	20
+339	identified	1983	Ecuador	4
+340	identified	1983	Paraguay	12
+341	identified	1984	Bolivia	8
+342	identified	1984	Brazil	143
+343	identified	1984	Colombia	5
+344	identified	1984	Costa Rica	42
+345	identified	1984	Ecuador	22
+346	identified	1984	Mexico	2
+347	identified	1984	Panama	2
+348	identified	1984	Paraguay	8
+349	identified	1984	Peru	6
+350	identified	1984	United States	1
+351	identified	1985	Bolivia	28
+352	identified	1985	Brazil	147
+353	identified	1985	Colombia	3
+354	identified	1985	Costa Rica	10
+355	identified	1985	Ecuador	11
+356	identified	1985	Guyana	139
+357	identified	1985	Mexico	2
+358	identified	1985	United States	1
+359	identified	1986	Australia	18
+360	identified	1986	Bolivia	54
+361	identified	1986	Brazil	146
+362	identified	1986	Colombia	26
+363	identified	1986	Costa Rica	47
+364	identified	1986	Ecuador	4
+365	identified	1986	Honduras	1
+366	identified	1986	Mexico	2
+367	identified	1986	Panama	1
+368	identified	1986	Paraguay	1
+369	identified	1986	Peru	1
+370	identified	1986	United States	4
+371	identified	1987	Belize	1
+372	identified	1987	Bolivia	45
+373	identified	1987	Brazil	158
+374	identified	1987	Caribbean	1
+375	identified	1987	Colombia	94
+376	identified	1987	Costa Rica	50
+377	identified	1987	Ecuador	42
+378	identified	1987	Paraguay	8
+379	identified	1987	Peru	4
+380	identified	1988	Bolivia	51
+381	identified	1988	Brazil	141
+382	identified	1988	Colombia	99
+383	identified	1988	Costa Rica	19
+384	identified	1988	Ecuador	5
+385	identified	1988	Guatemala	1
+386	identified	1988	Guyana	1
+387	identified	1988	Mexico	1
+388	identified	1988	Papua New Guinea	2
+389	identified	1988	Paraguay	12
+390	identified	1989	Australia	1
+391	identified	1989	Bolivia	13
+392	identified	1989	Brazil	141
+393	identified	1989	Colombia	77
+394	identified	1989	Costa Rica	4
+395	identified	1989	Ecuador	3
+396	identified	1989	Mexico	1
+397	identified	1989	Panama	29
+398	identified	1989	Papua New Guinea	1
+399	identified	1989	Paraguay	13
+400	identified	1989	Peru	3
+401	identified	1990	Bolivia	9
+402	identified	1990	Brazil	85
+403	identified	1990	Colombia	14
+404	identified	1990	Costa Rica	64
+405	identified	1990	Ecuador	25
+406	identified	1990	El Salvador	2
+407	identified	1990	Papua New Guinea	9
+408	identified	1990	Peru	1
+409	identified	1990	South Africa	1
+410	identified	1990	United States	1
+411	identified	1991	Bolivia	22
+412	identified	1991	Brazil	77
+413	identified	1991	Colombia	21
+414	identified	1991	Costa Rica	21
+415	identified	1991	Ecuador	24
+416	identified	1991	Honduras	1
+417	identified	1991	Paraguay	4
+418	identified	1991	United States	1
+419	identified	1992	Belize	2
+420	identified	1992	Bolivia	10
+421	identified	1992	Brazil	194
+422	identified	1992	Colombia	6
+423	identified	1992	Costa Rica	33
+424	identified	1992	Ecuador	23
+425	identified	1992	El Salvador	1
+426	identified	1992	Guatemala	4
+427	identified	1992	Paraguay	1
+428	identified	1993	Brazil	13
+429	identified	1993	Bolivia	8
+430	identified	1993	Brazil	216
+431	identified	1993	Colombia	5
+432	identified	1993	Ecuador	6
+433	identified	1993	Guatemala	6
+434	identified	1993	United States	1
+435	identified	1993	Venezuela	1
+436	identified	1994	Brazil	13
+437	identified	1994	Bolivia	30
+438	identified	1994	Brazil	198
+439	identified	1994	Colombia	19
+440	identified	1994	Costa Rica	1
+441	identified	1994	Ecuador	18
+442	identified	1994	United States	3
+443	identified	1995	Brazil	34
+444	identified	1995	Bolivia	23
+445	identified	1995	Brazil	222
+446	identified	1995	Colombia	23
+447	identified	1995	Ecuador	47
+448	identified	1995	El Salvador	1
+449	identified	1995	Paraguay	1
+450	identified	1995	Peru	27
+451	identified	1996	Brazil	3
+452	identified	1996	Belize	1
+453	identified	1996	Bolivia	9
+454	identified	1996	Brazil	170
+455	identified	1996	Ecuador	33
+456	identified	1996	El Salvador	1
+457	identified	1996	Paraguay	2
+458	identified	1996	Peru	106
+459	identified	1996	United States	2
+460	identified	1997	Brazil	7
+461	identified	1997	Belize	2
+462	identified	1997	Bolivia	11
+463	identified	1997	Brazil	296
+464	identified	1997	Costa Rica	1
+465	identified	1997	Ecuador	32
+466	identified	1997	Nicaragua	1
+467	identified	1997	Peru	105
+468	identified	1998	Brazil	59
+469	identified	1998	Bolivia	126
+470	identified	1998	Brazil	301
+471	identified	1998	Caribbean	3
+472	identified	1998	Ecuador	175
+473	identified	1998	El Salvador	10
+474	identified	1998	Paraguay	13
+475	identified	1998	Peru	147
+476	identified	1998	United States	67
+477	identified	1999	Argentina	1
+478	identified	1999	Brazil	168
+479	identified	1999	Bolivia	13
+480	identified	1999	Brazil	378
+481	identified	1999	Ecuador	70
+482	identified	1999	Greece	7
+483	identified	1999	Paraguay	11
+484	identified	1999	Peru	7
+485	identified	1999	Spain	10
+486	identified	1999	Turkey	2
+487	identified	1999	United States	177
+488	identified	2000	Argentina	1
+489	identified	2000	Brazil	296
+490	identified	2000	Bolivia	8
+491	identified	2000	Brazil	625
+492	identified	2000	Ecuador	77
+493	identified	2000	Mexico	7
+494	identified	2000	Nicaragua	2
+495	identified	2000	Panama	1
+496	identified	2000	Paraguay	17
+497	identified	2000	United States	5
+498	identified	2001	Brazil	112
+499	identified	2001	Bolivia	1
+500	identified	2001	Brazil	307
+501	identified	2001	Caribbean	1
+502	identified	2001	Ecuador	4
+503	identified	2001	El Salvador	1
+504	identified	2001	Nicaragua	1
+505	identified	2001	Paraguay	1
+506	identified	2001	Peru	5
+507	identified	2002	Brazil	92
+508	identified	2002	Bolivia	2
+509	identified	2002	Brazil	308
+510	identified	2002	El Salvador	1
+511	identified	2002	Peru	10
+512	identified	2003	Brazil	54
+513	identified	2003	Brazil	340
+514	identified	2003	Paraguay	1
+515	identified	2004	Brazil	4
+516	identified	2004	Bolivia	4
+517	identified	2004	Brazil	231
+518	identified	2004	Caribbean	1
+519	identified	2004	Peru	1
+520	identified	2005	Brazil	119
+521	identified	2005	Brazil	270
+522	identified	2006	Brazil	81
+523	identified	2006	Bolivia	1
+524	identified	2006	Brazil	190
+525	identified	2006	El Salvador	3
+526	identified	2006	Paraguai	2
+527	identified	2007	Bolivia	1
+528	identified	2007	Brazil	16
+529	identified	2007	El Salvador	1
+530	identified	2007	Mexico	1
+531	identified	2008	Brazil	32
+532	identified	2009	Brazil	21
+533	identified	2010	Brazil	1
+534	identified	2011	Brazil	2
+535	identified	2012	Brazil	1
+536	identified	2012	Colombia	2
+537	identified	2018	Brazil	1
+538	identified	1816	Brazil	2
+539	identified	1817	Brazil	4
+540	identified	1826	Brazil	1
+541	identified	1828	Brazil	1
+542	identified	1829	Mexico	2
+543	identified	1833	Brazil	2
+544	identified	1835	Guyana	1
+545	identified	1838	Brazil	1
+546	identified	1839	Bolivia	1
+547	identified	1839	Brazil	3
+548	identified	1840	Brazil	6
+549	identified	1841	Brazil	1
+550	identified	1842	Brazil	2
+551	identified	1845	Brazil	2
+552	identified	1845	Colombia	1
+553	identified	1846	Argentina	1
+554	identified	1846	Panama	2
+555	identified	1846	Venezuela	1
+556	identified	1847	Mexico	1
+557	identified	1849	Mexico	1
+558	identified	1858	Bolivia	1
+559	identified	1859	Bolivia	1
+560	identified	1859	Caribbean	1
+561	identified	1860	Bolivia	1
+562	identified	1860 - 1864	Cuba	1
+563	identified	1862	Brazil	1
+564	identified	1865	Mexico	1
+565	identified	1873	Argentina	1
+566	identified	1873	Bolivia	2
+567	identified	1874	Brazil	2
+568	identified	1876	Argentina	2
+569	identified	1876	Ecuador	2
+570	identified	1878	Chile	2
+571	identified	1878	Ecuador	2
+572	identified	1878	Mexico	1
+573	identified	1882	United States	1
+574	identified	1883	Brazil	1
+575	identified	1884	United States	1
+576	identified	1885	Bolivia	4
+577	identified	1885	Mexico	2
+578	identified	1885	United States	1
+579	identified	1886	Bolivia	1
+580	identified	1886	Mexico	1
+581	identified	1887	United States	1
+582	identified	1888	Mexico	1
+583	identified	1889	Mexico	2
+584	identified	1890	Mexico	1
+585	identified	1890	United States	7
+586	identified	1891	Bolivia	3
+587	identified	1891	Colombia	1
+588	identified	1891	Costa Rica	2
+589	identified	1891	United States	4
+590	identified	1892	Bolivia	4
+591	identified	1892	Brazil	1
+592	identified	1892	Ecuador	1
+593	identified	1892	Mexico	1
+594	identified	1892	United States	4
+595	identified	1893	Brazil	1
+596	identified	1893	Panama	1
+597	identified	1893	United States	3
+598	identified	1894	Bolivia	1
+599	identified	1894	Mexico	2
+600	identified	1894	United States	7
+601	identified	1895	Ecuador	1
+602	identified	1895	Mexico	1
+603	identified	1895	United States	6
+604	identified	1896	Costa Rica	1
+605	identified	1896	United States	2
+606	identified	1897	United States	3
+607	identified	1899	Brazil	11
+608	identified	1900	Mexico	1
+609	identified	1901	Brazil	1
+610	identified	1902	Argentina	1
+611	identified	1902	Bolivia	1
+612	identified	1902	Mexico	2
+613	identified	1903	Bolivia	1
+614	identified	1903	Canada	1
+615	identified	1903	Mexico	2
+616	identified	1904	Bolivia	3
+617	identified	1904	Brazil	1
+618	identified	1904	Ecuador	1
+619	identified	1904	United States	2
+620	identified	1905	Brazil	2
+621	identified	1905	Ecuador	2
+622	identified	1905	Mexico	3
+623	identified	1905	Paraguay	1
+624	identified	1905	United States	1
+625	identified	1906	United States	1
+626	identified	1906	Mexico	1
+627	identified	1907	Bolivia	1
+628	identified	1907	Caribbean	1
+629	identified	1907	Mexico	2
+630	identified	1907	United States	2
+631	identified	1908	Mexico	3
+632	identified	1908	United States	1
+633	identified	1909	Brazil	1
+634	identified	1909	Mexico	1
+635	identified	1909	United States	2
+636	identified	1910	Java	1
+637	identified	1910	Mexico	4
+638	identified	1910	United States	5
+639	identified	1911	Bolivia	2
+640	identified	1911	Mexico	1
+641	identified	1911	United States	2
+642	identified	1912	Bolivia	3
+643	identified	1912	Brazil	2
+644	identified	1912	Caribbean	1
+645	identified	1912	Jamaica	1
+646	identified	1912	United States	1
+647	identified	1913	Brazil	1
+648	identified	1913	China	3
+649	identified	1913	Malaysia	1
+650	identified	1913	Paraguay	2
+651	identified	1913	United States	27
+652	identified	1914	Brazil	1
+653	identified	1914	Mexico	1
+654	identified	1914	Sri Lanka	1
+655	identified	1914	United States	6
+656	identified	1915	Brazil	1
+657	identified	1916	Argentina	1
+658	identified	1916	Bolivia	1
+659	identified	1917	Bolivia	1
+660	identified	1918	Colombia	2
+661	identified	1919	Brazil	1
+662	identified	1919	Ecuador	1
+663	identified	1919	Mexico	1
+664	identified	1920	Bolivia	3
+665	identified	1920	United States	1
+666	identified	1921	Canada	4
+667	identified	1921	South Africa	1
+668	identified	1921	United States	6
+669	identified	1922	Bolivia	1
+670	identified	1922	Caribbean	1
+671	identified	1922	Panama	8
+672	identified	1922	South Africa	1
+673	identified	1922	United States	2
+674	identified	1923	Ecuador	3
+675	identified	1923	United States	3
+676	identified	1924	Argentina	1
+677	identified	1924	Brazil	2
+678	identified	1924	Panama	1
+679	identified	1925	Bolivia	1
+680	identified	1925	Brazil	8
+681	identified	1925	Panama	1
+682	identified	1925	United States	1
+683	identified	1926	Bolivia	1
+684	identified	1926	Brazil	1
+685	identified	1927	Brazil	1
+686	identified	1927	Chile	1
+687	identified	1927	Japan	1
+688	identified	1927	Mexico	1
+689	identified	1927	United States	7
+690	identified	1928	Bolivia	1
+691	identified	1928	Brazil	1
+692	identified	1928	Costa Rica	1
+693	identified	1928	Tanzania	2
+694	identified	1928	United States	8
+695	identified	1928	Venezuela	1
+696	identified	1929	Brazil	1
+697	identified	1929	Mexico	1
+698	identified	1929	Paraguay	5
+699	identified	1929	United States	7
+700	identified	1929	Venezuela	1
+701	identified	1930	Bolivia	1
+702	identified	1930	Brazil	4
+703	identified	1930	Chile	2
+704	identified	1930	Mexico	1
+705	identified	1930	Paraguay	1
+706	identified	1930	United States	12
+707	identified	1931	Argentina	1
+708	identified	1931	Brazil	3
+709	identified	1931	Colombia	1
+710	identified	1931	Ecuador	1
+711	identified	1931	Lebanon	3
+712	identified	1931	Mexico	1
+713	identified	1931	Panama	3
+714	identified	1931	Paraguay	2
+715	identified	1931	United States	19
+716	identified	1932	Bolivia	1
+717	identified	1932	Colombia	5
+718	identified	1932	Mexico	2
+719	identified	1932	Panama	4
+720	identified	1932	Paraguay	1
+721	identified	1932	United States	7
+722	identified	1933	Bolivia	3
+723	identified	1933	Brazil	1
+724	identified	1933	United States	3
+725	identified	1934	Chile	1
+726	identified	1934	Ecuador	3
+727	identified	1934	Panama	3
+728	identified	1934	United States	4
+729	identified	1935	Bolivia	1
+730	identified	1935	Mexico	2
+731	identified	1935	Panama	6
+732	identified	1935	United States	12
+733	identified	1936	Argentina	1
+734	identified	1936	Brazil	2
+735	identified	1936	Panama	1
+736	identified	1936	United States	7
+737	identified	1937	Bolivia	1
+738	identified	1937	India	1
+739	identified	1937	Mexico	4
+740	identified	1937	Panama	1
+741	identified	1937	United States	1
+742	identified	1938	Caribbean	1
+743	identified	1938	Chile	1
+744	identified	1938	Colombia	4
+745	identified	1938	Kenya	5
+746	identified	1938	Mexico	1
+747	identified	1938	Panama	19
+748	identified	1938	Peru	2
+749	identified	1938	Uganda	5
+750	identified	1938	United States	4
+751	identified	1938	Zambia	1
+752	identified	1939	Bolivia	1
+753	identified	1939	Brazil	1
+754	identified	1939	Colombia	1
+755	identified	1939	Ecuador	7
+756	identified	1939	Kenya	3
+757	identified	1939	Panama	3
+758	identified	1939	Puerto Rico	3
+759	identified	1939	United States	5
+760	identified	1940	Mexico	4
+761	identified	1940	Panama	19
+762	identified	1940	Tanzania	1
+763	identified	1940	Uganda	2
+764	identified	1941	Chile	1
+765	identified	1941	Colombia	1
+766	identified	1941	Ecuador	1
+767	identified	1941	Guatemala	1
+768	identified	1941	Mexico	3
+769	identified	1941	Panama	4
+770	identified	1941	Uganda	1
+771	identified	1941	United States	3
+772	identified	1942	Brazil	2
+773	identified	1942	Ecuador	2
+774	identified	1942	El Salvador	1
+775	identified	1942	Mexico	2
+776	identified	1942	Uganda	1
+777	identified	1942	United States	5
+778	identified	1943	Argentina	1
+779	identified	1943	Brazil	1
+780	identified	1943	Chile	1
+781	identified	1943	Tanzania	1
+782	identified	1943	United States	1
+783	identified	1944	Brazil	1
+784	identified	1944	Chile	4
+785	identified	1944	China	5
+786	identified	1944	Colombia	7
+787	identified	1944	Ecuador	2
+788	identified	1944	India	36
+789	identified	1944	Mexico	41
+790	identified	1944	United States	4
+791	identified	1945	Argentina	1
+792	identified	1945	Brazil	1
+793	identified	1945	Colombia	2
+794	identified	1945	Ecuador	17
+795	identified	1945	Guatemala	1
+796	identified	1945	Mexico	30
+797	identified	1945	Uganda	1
+798	identified	1945	United States	1
+799	identified	1946	Brazil	2
+800	identified	1946	Mexico	3
+801	identified	1946	Panama	3
+802	identified	1946	Republic of the Congo	1
+803	identified	1947	Brazil	1
+804	identified	1947	Panama	2
+805	identified	1947	Peru	4
+806	identified	1947	United States	18
+807	identified	1948	Brazil	2
+808	identified	1948	Honduras	1
+809	identified	1948	Peru	1
+810	identified	1948	Uganda	2
+811	identified	1948	United States	3
+812	identified	1949	Brazil	2
+813	identified	1949	Kenya	1
+814	identified	1949	Mexico	5
+815	identified	1949	New Zealand	1
+816	identified	1949	United States	326
+817	identified	1950	Belize	1
+818	identified	1950	Brazil	2
+819	identified	1950	Colombia	2
+820	identified	1950	India	1
+821	identified	1950	Tanzania	1
+822	identified	1950	United States	29
+823	identified	1951	Brazil	3
+824	identified	1951	Honduras	14
+825	identified	1951	Tanzania	7
+826	identified	1951	Thailand	2
+827	identified	1951	United States	9
+828	identified	1952	Brazil	2
+829	identified	1952	Ecuador	1
+830	identified	1952	Kenya	2
+831	identified	1952	Thailand	2
+832	identified	1952	Turkey	53
+833	identified	1952	United States	2
+834	identified	1953	Brazil	4
+835	identified	1953	Ecuador	1
+836	identified	1953	Peru	1
+837	identified	1953	South Africa	5
+838	identified	1953	United States	16
+839	identified	1954	Canada	1
+840	identified	1954	Panama	1
+841	identified	1954	Tanzania	1
+842	identified	1954	United States	8
+843	identified	1955	Argentina	7
+844	identified	1955	Brazil	29
+845	identified	1955	India	2
+846	identified	1955	Mexico	3
+847	identified	1955	Pakistan	7
+848	identified	1955	Sweden	2
+849	identified	1955	United States	46
+850	identified	1956	Argentina	8
+851	identified	1956	Honduras	2
+852	identified	1956	Kenya	4
+853	identified	1956	Mexico	4
+854	identified	1956	Papua New Guinea	3
+855	identified	1956	Tanzania	1
+856	identified	1956	United States	5
+857	identified	1957	Argentina	3
+858	identified	1957	Brazil	4
+859	identified	1957	Ecuador	4
+860	identified	1957	Germany	14
+861	identified	1957	Kenya	4
+862	identified	1957	Mexico	2
+863	identified	1957	Paraguai	1
+864	identified	1957	Republic of the Congo	1
+865	identified	1957	Tanzania	1
+866	identified	1957	Uganda	6
+867	identified	1957	United States	146
+868	identified	1958	Argentina	11
+869	identified	1958	Austria	1
+870	identified	1958	Brazil	1
+871	identified	1958	Chile	63
+872	identified	1958	Germany	3
+873	identified	1958	Kenya	1
+874	identified	1958	Luxembourg	2
+875	identified	1958	Mexico	1
+876	identified	1958	Mozambique	1
+877	identified	1958	Peru	1
+878	identified	1958	Taiwan	1
+879	identified	1958	United States	121
+880	identified	1958	Zimbabwe	9
+881	identified	1959	Brazil	2
+882	identified	1959	Canada	1
+883	identified	1959	Colombia	3
+884	identified	1959	El Salvador	1
+885	identified	1959	Ecuador	4
+886	identified	1959	Germany	4
+887	identified	1959	Kenya	2
+888	identified	1959	Malawi	1
+889	identified	1959	Mexico	4
+890	identified	1959	Papua New Guinea	2
+891	identified	1959	Thailand	1
+892	identified	1959	United States	41
+893	identified	1959	Uruguay	5
+894	identified	1960	Brazil	4
+895	identified	1960	Brazil	5
+896	identified	1960	Chile	2
+897	identified	1960	Costa Rica	1
+898	identified	1960	El Salvador	2
+899	identified	1960	Guatemala	1
+900	identified	1960	Kenya	1
+901	identified	1960	Mexico	74
+902	identified	1960	Mozambique	1
+903	identified	1960	Panama	5
+904	identified	1960	Seychelles	1
+905	identified	1960	Tanzania	1
+906	identified	1960	United States	31
+907	identified	1960	Uruguay	11
+908	identified	1960	Venezuela	2
+909	identified	1961	Brazil	11
+910	identified	1961	Brazil	17
+911	identified	1961	Colombia	4
+912	identified	1961	Canada	3
+913	identified	1961	Chile	2
+914	identified	1961	Colombia	10
+915	identified	1961	Ecuador	15
+916	identified	1961	Ethiopia	1
+917	identified	1961	Kenya	11
+918	identified	1961	Mexico	7
+919	identified	1961	New Zealand	1
+920	identified	1961	Panama	1
+921	identified	1961	Peru	11
+922	identified	1961	Tanzania	3
+923	identified	1961	Uganda	2
+924	identified	1961	United States	157
+925	identified	1961	Uruguay	1
+926	identified	1961	Venezuela	5
+927	identified	1962	Brazil	1
+928	identified	1962	Brazil	10
+929	identified	1962	Colombia	1
+930	identified	1962	Caribbean	13
+931	identified	1962	Chile	3
+932	identified	1962	Colombia	2
+933	identified	1962	Costa Rica	15
+934	identified	1962	Ecuador	2
+935	identified	1962	Ethiopia	1
+936	identified	1962	Guatemala	1
+937	identified	1962	Mexico	247
+938	identified	1962	Mozambique	2
+939	identified	1962	Panama	14
+940	identified	1962	Peru	37
+941	identified	1962	United States	330
+942	identified	1962	Venezuela	3
+943	identified	1962	Zimbabwe	1
+944	identified	1963	Australia	9
+945	identified	1963	Brazil	1
+946	identified	1963	Brazil	3
+947	identified	1963	Colombia	12
+948	identified	1963	Canada	1
+949	identified	1963	Caribbean	1
+950	identified	1963	Chile	1
+951	identified	1963	Colombia	1
+952	identified	1963	Costa Rica	15
+953	identified	1963	Jamaica	1
+954	identified	1963	Japan	2
+955	identified	1963	Kenya	2
+956	identified	1963	Mexico	4
+957	identified	1963	Panama	2
+958	identified	1963	Peru	4
+959	identified	1963	Thailand	1
+960	identified	1963	United Kingdom	1
+961	identified	1963	United States	522
+962	identified	1963	Uruguay	6
+963	identified	1963	Venezuela	3
+964	identified	1964	Brazil	129
+965	identified	1964	Colombia	3
+966	identified	1964	Canada	1
+967	identified	1964	Chile	6
+968	identified	1964	Colombia	2
+969	identified	1964	Ecuador	2
+970	identified	1964	Greece	1
+971	identified	1964	Mexico	31
+972	identified	1964	New Caledonia	1
+973	identified	1964	Panama	1
+974	identified	1964	Papua New Guinea	1
+975	identified	1964	Peru	7
+976	identified	1964	Philippines	36
+977	identified	1964	Singapore	1
+978	identified	1964	Tanzania	1
+979	identified	1964	Thailand	3
+980	identified	1964	United States	504
+981	identified	1964	Uruguay	1
+982	identified	1964	Venezuela	3
+983	identified	1964	Zimbabwe	1
+984	identified	1965	Brazil	106
+985	identified	1965	Chile	55
+986	identified	1965	Colombia	8
+987	identified	1965	Costa Rica	17
+988	identified	1965	Cuba	1
+989	identified	1965	India	1
+990	identified	1965	Chile	1
+991	identified	1965	Mexico	15
+992	identified	1965	New Caledonia	3
+993	identified	1965	Panama	6
+994	identified	1965	Paraguay	1
+995	identified	1965	Peru	4
+996	identified	1965	Tanzania	2
+997	identified	1965	Thailand	8
+998	identified	1965	United States	419
+999	identified	1965	Vanuatu	1
+1000	identified	1966	Brazil	7
+1001	identified	1966	Bolivia	5
+1002	identified	1966	Brazil	237
+1003	identified	1966	Canada	1
+1004	identified	1966	Caribbean	7
+1005	identified	1966	Chile	5
+1006	identified	1966	Colombia	10
+1007	identified	1966	Costa Rica	2
+1008	identified	1966	Kenya	1
+1009	identified	1966	Mexico	42
+1010	identified	1966	New Caledonia	3
+1011	identified	1966	Panama	26
+1012	identified	1966	Paraguay	2
+1013	identified	1966	Puerto Rico	26
+1014	identified	1966	Tanzania	2
+1015	identified	1966	United States	106
+1016	identified	1966	Uruguay	3
+1017	identified	1966	Venezuela	57
+1018	identified	1967	Bolivia	3
+1019	identified	1967	Brazil	28
+1020	identified	1967	British Indian Ocean Territory	3
+1021	identified	1967	Chagos Archipelago	1
+1022	identified	1967	Chile	1
+1023	identified	1967	Colombia	6
+1024	identified	1967	Costa Rica	5
+1025	identified	1967	Ecuador	4
+1026	identified	1967	Mauritius	1
+1027	identified	1967	Mexico	8
+1028	identified	1967	New Caledonia	1
+1029	identified	1967	Panama	29
+1030	identified	1967	Thailand	2
+1031	identified	1967	United States	122
+1032	identified	1967	Uruguay	1
+1033	identified	1967	Venezuela	20
+1034	identified	1968	Brazil	117
+1035	identified	1968	Caribbean	1
+1036	identified	1968	Chile	7
+1037	identified	1968	Colombia	3
+1038	identified	1968	Costa Rica	8
+1039	identified	1968	Ecuador	90
+1040	identified	1968	India	1
+1041	identified	1968	Jamaica	1
+1042	identified	1968	Mexico	6
+1043	identified	1968	Panama	24
+1044	identified	1968	Peru	1
+1045	identified	1968	Tanzania	1
+1046	identified	1968	Thailand	1
+1047	identified	1968	United States	85
+1048	identified	1968	Venezuela	3
+1049	identified	1969	Brazil	1
+1050	identified	1969	Belize	1
+1051	identified	1969	Brazil	61
+1052	identified	1969	Caribbean	1
+1053	identified	1969	Chile	39
+1054	identified	1969	Colombia	6
+1055	identified	1969	Costa Rica	10
+1056	identified	1969	Dominica	1
+1057	identified	1969	Dominican Republic	1
+1058	identified	1969	Ecuador	7
+1059	identified	1969	Mexico	2
+1060	identified	1969	Panama	31
+1061	identified	1969	South Africa	1
+1062	identified	1969	Thailand	4
+1063	identified	1969	United States	32
+1064	identified	1969	Venezuela	2
+1065	identified	1970	Brazil	78
+1066	identified	1970	Colombia	12
+1067	identified	1970	Canada	52
+1068	identified	1970	Chile	36
+1069	identified	1970	Guatemala	2
+1070	identified	1970	Jamaica	6
+1071	identified	1970	Mexico	3
+1072	identified	1970	Panama	38
+1073	identified	1970	Peru	2
+1074	identified	1970	United Kingdom	1
+1075	identified	1970	United States	41
+1076	identified	1970	Venezuela	39
+1077	identified	1971	Argentina	1
+1078	identified	1971	Brazil	3
+1079	identified	1971	Belize	1
+1080	identified	1971	Brazil	139
+1081	identified	1971	Chile	46
+1082	identified	1971	Costa Rica	3
+1083	identified	1971	Ecuador	7
+1084	identified	1971	Honduras	3
+1085	identified	1971	Mexico	9
+1086	identified	1971	Panama	39
+1087	identified	1971	Peru	2
+1088	identified	1971	United States	17
+1089	identified	1971	Venezuela	30
+1090	identified	1972	Argentina	1
+1091	identified	1972	Bolivia	79
+1092	identified	1972	Brazil	116
+1093	identified	1972	Colombia	1
+1094	identified	1972	Canada	4
+1095	identified	1972	Chile	17
+1096	identified	1972	Colombia	20
+1097	identified	1972	Ecuador	3
+1098	identified	1972	Guatemala	1
+1099	identified	1972	Guatemala	1
+1100	identified	1972	Mexico	23
+1101	identified	1972	Panama	27
+1102	identified	1972	Peru	12
+1103	identified	1972	United States	9
+1104	identified	1972	Venezuela	28
+1105	identified	1973	Belize	6
+1106	identified	1973	Brazil	126
+1107	identified	1973	Colombia	2
+1108	identified	1973	Chile	18
+1109	identified	1973	Costa Rica	1
+1110	identified	1973	Ecuador	43
+1111	identified	1973	French Polynesia	9
+1112	identified	1973	Honduras	3
+1113	identified	1973	Mexico	28
+1114	identified	1973	Panama	24
+1115	identified	1973	Peru	28
+1116	identified	1973	United States	23
+1117	identified	1973	Venezuela	35
+1118	identified	1974	Argentina	18
+1119	identified	1974	Belize	6
+1120	identified	1974	Bolivia	4
+1121	identified	1974	Brazil	92
+1122	identified	1974	Chile	5
+1123	identified	1974	Colombia	5
+1124	identified	1974	Costa Rica	2
+1125	identified	1974	Ecuador	54
+1126	identified	1974	Honduras	1
+1127	identified	1974	Madagascar	1
+1128	identified	1974	Mexico	13
+1129	identified	1974	Panama	5
+1130	identified	1974	Paraguay	2
+1131	identified	1974	Peru	10
+1132	identified	1974	United States	45
+1133	identified	1974	Venezuela	28
+1134	identified	1975	Brazil	73
+1135	identified	1975	Colombia	1
+1136	identified	1975	Canada	1
+1137	identified	1975	Chile	8
+1138	identified	1975	Colombia	6
+1139	identified	1975	Ecuador	4
+1140	identified	1975	Guatemala	2
+1141	identified	1975	Honduras	2
+1142	identified	1975	Mexico	29
+1143	identified	1975	Panama	2
+1144	identified	1975	Peru	44
+1145	identified	1975	United States	26
+1146	identified	1976	Belize	1
+1147	identified	1976	Brazil	99
+1148	identified	1976	Colombia	11
+1149	identified	1976	Canada	5
+1150	identified	1976	Chile	10
+1151	identified	1976	Colombia	10
+1152	identified	1976	Costa Rica	5
+1153	identified	1976	Ecuador	18
+1154	identified	1976	Guatemala	8
+1155	identified	1976	Honduras	1
+1156	identified	1976	Mexico	17
+1157	identified	1976	Nepal	1
+1158	identified	1976	Panama	10
+1159	identified	1976	Peru	61
+1160	identified	1976	United States	5
+1161	identified	1976	Venezuela	3
+1162	identified	1977	Bolivia	1
+1163	identified	1977	Brazil	28
+1164	identified	1977	Canada	1
+1165	identified	1977	Chile	12
+1166	identified	1977	Colombia	10
+1167	identified	1977	Ecuador	10
+1168	identified	1977	Guatemala	17
+1169	identified	1977	Guatemala	12
+1170	identified	1977	Honduras	6
+1171	identified	1977	Mexico	1
+1172	identified	1977	Panama	12
+1173	identified	1977	Peru	117
+1174	identified	1977	United States	6
+1175	identified	1977	Venezuela	1
+1176	identified	1978	Argentina	2
+1177	identified	1978	Bolivia	4
+1178	identified	1978	Brazil	88
+1179	identified	1978	Colombia	2
+1180	identified	1978	Chile	1
+1181	identified	1978	Colombia	1
+1182	identified	1978	Costa Rica	4
+1183	identified	1978	Ecuador	34
+1184	identified	1978	Honduras	3
+1185	identified	1978	Mexico	4
+1186	identified	1978	Panama	15
+1187	identified	1978	Paraguay	13
+1188	identified	1978	Peru	108
+1189	identified	1978	Venezuela	10
+1190	identified	1979	Brazil	114
+1191	identified	1979	Colombia	4
+1192	identified	1979	Caribbean	2
+1193	identified	1979	Chile	2
+1194	identified	1979	Colombia	19
+1195	identified	1979	Costa Rica	7
+1196	identified	1979	Ecuador	183
+1197	identified	1979	Mexico	65
+1198	identified	1979	Panama	14
+1199	identified	1979	Paraguay	29
+1200	identified	1979	Peru	19
+1201	identified	1979	United States	1
+1202	identified	1979	Venezuela	14
+1203	identified	1980	Argentina	1
+1204	identified	1980	Belize	1
+1205	identified	1980	Bolivia	50
+1206	identified	1980	Brazil	248
+1207	identified	1980	Caribbean	2
+1208	identified	1980	Chile	5
+1209	identified	1980	Colombia	24
+1210	identified	1980	Costa Rica	1
+1211	identified	1980	Ecuador	367
+1212	identified	1980	Guatemala	1
+1213	identified	1980	Honduras	5
+1214	identified	1980	Mexico	5
+1215	identified	1980	Panama	7
+1216	identified	1980	Paraguay	31
+1217	identified	1980	Peru	43
+1218	identified	1980	United States	15
+1219	identified	1980	Venezuela	8
+1220	identified	1981	Bolivia	30
+1221	identified	1981	Brazil	226
+1222	identified	1981	Colombia	13
+1223	identified	1981	Ecuador	77
+1224	identified	1981	Honduras	1
+1225	identified	1981	Mexico	8
+1226	identified	1981	Nicaragua	1
+1227	identified	1981	Panama	23
+1228	identified	1981	Paraguay	7
+1229	identified	1981	Peru	95
+1230	identified	1981	United States	11
+1231	identified	1981	Venezuela	1
+1232	identified	1982	Argentina	2
+1233	identified	1982	Bolivia	89
+1234	identified	1982	Brazil	123
+1235	identified	1982	Colombia	8
+1236	identified	1982	Costa Rica	7
+1237	identified	1982	Ecuador	48
+1238	identified	1982	Guyana	4
+1239	identified	1982	Honduras	5
+1240	identified	1982	Kiribati	1
+1241	identified	1982	Mexico	6
+1242	identified	1982	Panama	8
+1243	identified	1982	Paraguay	57
+1244	identified	1982	Peru	61
+1245	identified	1982	United States	43
+1246	identified	1982	Venezuela	12
+1247	identified	1983	Bolivia	119
+1248	identified	1983	Brazil	182
+1249	identified	1983	Chile	1
+1250	identified	1983	Colombia	40
+1251	identified	1983	Costa Rica	37
+1252	identified	1983	Ecuador	64
+1253	identified	1983	Honduras	3
+1254	identified	1983	Madagascar	1
+1255	identified	1983	Mexico	6
+1256	identified	1983	Panama	13
+1257	identified	1983	Paraguay	41
+1258	identified	1983	Peru	132
+1259	identified	1983	United States	6
+1260	identified	1983	Venezuela	1
+1261	identified	1984	Argentina	1
+1262	identified	1984	Brazil	1
+1263	identified	1984	Bolivia	102
+1264	identified	1984	Brazil	209
+1265	identified	1984	Colombia	45
+1266	identified	1984	Costa Rica	52
+1267	identified	1984	Ecuador	101
+1268	identified	1984	El Salvador	1
+1269	identified	1984	Honduras	6
+1270	identified	1984	Madagascar	2
+1271	identified	1984	Mexico	9
+1272	identified	1984	Panama	26
+1273	identified	1984	Paraguay	54
+1274	identified	1984	Peru	304
+1275	identified	1984	United States	7
+1276	identified	1984	Venezuela	15
+1277	identified	1985	Argentina	18
+1278	identified	1985	Brazil	3
+1279	identified	1985	Bolivia	89
+1280	identified	1985	Brazil	178
+1281	identified	1985	Colombia	4
+1282	identified	1985	Chile	1
+1283	identified	1985	Colombia	54
+1284	identified	1985	Costa Rica	52
+1285	identified	1985	Ecuador	80
+1286	identified	1985	French Guiana	1
+1287	identified	1985	Guyana	9
+1288	identified	1985	Madagascar	4
+1289	identified	1985	Mexico	4
+1290	identified	1985	Panama	34
+1291	identified	1985	Paraguay	14
+1292	identified	1985	Peru	172
+1293	identified	1985	Venezuela	20
+1294	identified	1986	Brazil	1
+1295	identified	1986	Bolivia	108
+1296	identified	1986	Brazil	97
+1297	identified	1986	Colombia	3
+1298	identified	1986	Colombia	49
+1299	identified	1986	Costa Rica	5
+1300	identified	1986	Ecuador	54
+1301	identified	1986	French Guiana	1
+1302	identified	1986	Guiana	2
+1303	identified	1986	Italy	1
+1304	identified	1986	Mexico	2
+1305	identified	1986	Panama	10
+1306	identified	1986	Paraguay	13
+1307	identified	1986	Peru	84
+1308	identified	1986	United States	3
+1309	identified	1986	Venezuela	3
+1310	identified	1987	Brazil	1
+1311	identified	1987	Belize	4
+1312	identified	1987	Bolivia	167
+1313	identified	1987	Brazil	157
+1314	identified	1987	Colombia	12
+1315	identified	1987	Caribbean	6
+1316	identified	1987	Chile	1
+1317	identified	1987	Colombia	64
+1318	identified	1987	Costa Rica	22
+1319	identified	1987	Ecuador	278
+1320	identified	1987	Equador	4
+1321	identified	1987	French Guiana	1
+1322	identified	1987	Guatemala	13
+1323	identified	1987	Guyana	8
+1324	identified	1987	Honduras	15
+1325	identified	1987	Madagascar	4
+1326	identified	1987	Mexico	4
+1327	identified	1987	Panama	2
+1328	identified	1987	Paraguay	82
+1329	identified	1987	Peru	72
+1330	identified	1987	Puerto Rico	4
+1331	identified	1987	Venezuela	18
+1332	identified	1988	Brazil	2
+1333	identified	1988	Bolivia	281
+1334	identified	1988	Brazil	197
+1335	identified	1988	Colombia	18
+1336	identified	1988	Caribbean	2
+1337	identified	1988	Colombia	95
+1338	identified	1988	Costa Rica	2
+1339	identified	1988	Ecuador	228
+1340	identified	1988	French Guiana	1
+1341	identified	1988	Guatemala	6
+1342	identified	1988	Guyana	6
+1343	identified	1988	Honduras	1
+1344	identified	1988	Mexico	2
+1345	identified	1988	Panama	1
+1346	identified	1988	Paraguay	188
+1347	identified	1988	Peru	52
+1348	identified	1988	United States	4
+1349	identified	1988	Venezuela	1
+1350	identified	1989	Australia	3
+1351	identified	1989	Brazil	4
+1352	identified	1989	Belize	1
+1353	identified	1989	Bolivia	95
+1354	identified	1989	Brazil	279
+1355	identified	1989	Colombia	20
+1356	identified	1989	Colombia	62
+1357	identified	1989	Costa Rica	10
+1358	identified	1989	Ecuador	127
+1359	identified	1989	Guyana	2
+1360	identified	1989	Madagascar	1
+1361	identified	1989	Mexico	125
+1362	identified	1989	Panama	1
+1363	identified	1989	Paraguay	543
+1364	identified	1989	Peru	34
+1365	identified	1990	Brazil	9
+1366	identified	1990	Bolivia	100
+1367	identified	1990	Brazil	124
+1368	identified	1990	Colombia	8
+1369	identified	1990	Caribbean	3
+1370	identified	1990	Colombia	62
+1371	identified	1990	Costa Rica	17
+1372	identified	1990	Dominican Republic	21
+1373	identified	1990	El Salvador	1
+1374	identified	1990	Ecuador	296
+1375	identified	1990	Madagascar	2
+1376	identified	1990	Mexico	2
+1377	identified	1990	Panama	4
+1378	identified	1990	Paraguay	622
+1379	identified	1990	Peru	19
+1380	identified	1990	Trinidad and Tobago	1
+1381	identified	1990	United States	72
+1382	identified	1991	Belize	1
+1383	identified	1991	Brazil	3
+1384	identified	1991	Bolivia	149
+1385	identified	1991	Brazil	79
+1386	identified	1991	Colombia	8
+1387	identified	1991	Costa Rica	2
+1388	identified	1991	Dominican Republic	12
+1389	identified	1991	Ecuador	229
+1390	identified	1991	Guyana	2
+1391	identified	1991	Honduras	3
+1392	identified	1991	Mexico	1
+1393	identified	1991	Paraguay	564
+1394	identified	1991	Peru	44
+1395	identified	1991	Saint Lucia	1
+1396	identified	1991	United States	40
+1397	identified	1991	Venezuela	5
+1398	identified	1992	Argentina	1
+1399	identified	1992	Brazil	2
+1400	identified	1992	Bolivia	50
+1401	identified	1992	Brazil	272
+1402	identified	1992	Caribbean	4
+1403	identified	1992	Colombia	13
+1404	identified	1992	Costa Rica	17
+1405	identified	1992	Dominican Republic	8
+1406	identified	1992	Ecuador	169
+1407	identified	1992	El Salvador	1
+1408	identified	1992	Guatemala	2
+1409	identified	1992	Guatemala	2
+1410	identified	1992	Honduras	7
+1411	identified	1992	Japan	2
+1412	identified	1992	Mexico	31
+1413	identified	1992	Panama	3
+1414	identified	1992	Paraguai	9
+1415	identified	1992	Paraguay	440
+1416	identified	1992	Peru	1
+1417	identified	1992	Puerto Rico	1
+1418	identified	1992	United States	1
+1419	identified	1993	Brazil	12
+1420	identified	1993	Bolivia	51
+1421	identified	1993	Brazil	296
+1422	identified	1993	Colombia	1
+1423	identified	1993	Caribbean	1
+1424	identified	1993	Colombia	18
+1425	identified	1993	Dominica	2
+1426	identified	1993	Ecuador	166
+1427	identified	1993	Guatemala	1
+1428	identified	1993	Honduras	38
+1429	identified	1993	Mexico	3
+1430	identified	1993	Panama	5
+1431	identified	1993	Paraguai	3
+1432	identified	1993	Paraguay	248
+1433	identified	1993	Peru	1
+1434	identified	1993	Venezuela	95
+1435	identified	1994	Brazil	3
+1436	identified	1994	Bolivia	144
+1437	identified	1994	Brazil	214
+1438	identified	1994	Colombia	1
+1439	identified	1994	Canada	1
+1440	identified	1994	Caribbean	3
+1441	identified	1994	Costa Rica	2
+1442	identified	1994	Ecuador	183
+1443	identified	1994	Guatemala	1
+1444	identified	1994	Guyana	1
+1445	identified	1994	Honduras	2
+1446	identified	1994	Mexico	1
+1447	identified	1994	Nicaragua	1
+1448	identified	1994	Paraguay	341
+1449	identified	1994	Peru	11
+1450	identified	1995	Belize	1
+1451	identified	1995	Brazil	8
+1452	identified	1995	Bahamas	1
+1453	identified	1995	Bolivia	70
+1454	identified	1995	Brazil	201
+1455	identified	1995	Colombia	1
+1456	identified	1995	Ecuador	43
+1457	identified	1995	Guyana	1
+1458	identified	1995	Mexico	1
+1459	identified	1995	Paraguay	84
+1460	identified	1995	Peru	9
+1461	identified	1995	Venezuela	1
+1462	identified	1996	Belize	1
+1463	identified	1996	Brazil	12
+1464	identified	1996	Bolivia	7
+1465	identified	1996	Brazil	224
+1466	identified	1996	Caribbean	1
+1467	identified	1996	Dominica	1
+1468	identified	1996	Ecuador	34
+1469	identified	1996	Guyana	1
+1470	identified	1996	Honduras	2
+1471	identified	1996	Paraguay	115
+1472	identified	1996	Peru	4
+1473	identified	1996	Puerto Rico	9
+1474	identified	1996	Venezuela	1
+1475	identified	1997	Belize	1
+1476	identified	1997	Brazil	8
+1477	identified	1997	Bolivia	7
+1478	identified	1997	Brazil	259
+1479	identified	1997	Costa Rica	4
+1480	identified	1997	Ecuador	4
+1481	identified	1997	Guatemala	6
+1482	identified	1997	Guyana	2
+1483	identified	1997	Mexico	4
+1484	identified	1997	Netherlands	1
+1485	identified	1997	Paraguai	2
+1486	identified	1997	Paraguay	155
+1487	identified	1997	Peru	14
+1488	identified	1997	United States	2
+1489	identified	1998	Brazil	22
+1490	identified	1998	Bolivia	17
+1491	identified	1998	Bolívia	1
+1492	identified	1998	Brazil	243
+1493	identified	1998	Ecuador	79
+1494	identified	1998	Mexico	9
+1495	identified	1998	Paraguay	193
+1496	identified	1998	Peru	8
+1497	identified	1998	Suriname	7
+1498	identified	1998	United States	23
+1499	identified	1998	Venezuela	6
+1500	identified	1999	Argentina	1
+1501	identified	1999	Australia	1
+1502	identified	1999	Brazil	6
+1503	identified	1999	Bolivia	2
+1504	identified	1999	Brazil	234
+1505	identified	1999	Ecuador	81
+1506	identified	1999	Paraguay	213
+1507	identified	1999	United States	7
+1508	identified	2000	Brazil	12
+1509	identified	2000	Bolivia	1
+1510	identified	2000	Brazil	307
+1511	identified	2000	Ecuador	84
+1512	identified	2000	Mexico	1
+1513	identified	2000	Paraguay	162
+1514	identified	2001	Australia	3
+1515	identified	2001	Brazil	5
+1516	identified	2001	Bolivia	1
+1517	identified	2001	Brazil	256
+1518	identified	2001	Ecuador	6
+1519	identified	2001	Venezuela	3
+1520	identified	2002	Brazil	219
+1521	identified	2002	Venezuela	1
+1522	identified	2003	Brazil	20
+1523	identified	2003	Bolivia	2
+1524	identified	2003	Brazil	230
+1525	identified	2003	Ecuador	125
+1526	identified	2003	Mexico	2
+1527	identified	2003	Peru	8
+1528	identified	2004	Brazil	240
+1529	identified	2004	Costa Rica	1
+1530	identified	2004	El Salvador	1
+1531	identified	2004	Mexico	1
+1532	identified	2004	Panama	1
+1533	identified	2004	Peru	20
+1534	identified	2005	Brazil	228
+1535	identified	2005	Mexico	1
+1536	identified	2005	Panama	1
+1537	identified	2005	Peru	1
+1538	identified	2006	Brazil	289
+1539	identified	2006	Caribbean	3
+1540	identified	2006	United States	1
+1541	identified	2006	Paraguay	4
+1542	identified	2007	Brazil	36
+1543	identified	2007	Costa Rica	2
+1544	identified	2007	Ecuador	1
+1545	identified	2008	Brazil	13
+1546	identified	2008	Mexico	1
+1547	identified	2009	Brazil	3
+1548	identified	2009	Mexico	2
+1549	identified	2010	Brazil	32
+1550	identified	2010	Mexico	9
+1551	identified	2011	Brazil	17
+1552	identified	2011	Ecuador	1
+1553	identified	2012	Brazil	16
+1554	identified	2012	Colombia	4
+1555	identified	2012	Tanzania	1
+1556	identified	2013	Brazil	8
+1557	identified	2013	Chile	7
+1558	identified	2013	Mexico	10
+1559	identified	2014	Mexico	220
+1560	identified	2015	Mexico	270
+1561	identified	2016	Mexico	20
+1562	identified	2016	Panama	2
+1563	identified	2017	Myanmar	1
+1564	identified	2018	Brazil	1
+1565	identified	2019	Brazil	3
+1566	recorded	1950	United States	1
+1567	recorded	1953	Puerto Rico	1
+1568	recorded	1953	South Africa	1
+1569	recorded	1953	United States	291
+1570	recorded	1954	Canada	28
+1571	recorded	1954	Mexico	57
+1572	recorded	1954	United States	70
+1573	recorded	1955	Canada	18
+1574	recorded	1955	United States	380
+1575	recorded	1956	United States	47
+1576	recorded	1957	United States	1
+1577	recorded	1957	Germany	2
+1578	recorded	1957	United States	54
+1579	recorded	1958	Canada	3
+1580	recorded	1958	United States	15
+1581	recorded	1958	United States	276
+1582	recorded	1959	United States	3
+1583	recorded	1959	Mexico	1
+1584	recorded	1959	United States	138
+1585	recorded	1960	United States	4
+1586	recorded	1960	Mexico	4
+1587	recorded	1960	United States	68
+1588	recorded	1961	Mexico	142
+1589	recorded	1961	United States	8
+1590	recorded	1962	Argentina	1
+1591	recorded	1962	Mexico	464
+1592	recorded	1962	Peru	2
+1593	recorded	1962	United States	3
+1594	recorded	1963	Honduras	1
+1595	recorded	1963	Mexico	202
+1596	recorded	1963	United States	1
+1597	recorded	1964	Dominica	92
+1598	recorded	1964	Mexico	4
+1599	recorded	1964	United States	2
+1600	recorded	1965	Chile	1
+1601	recorded	1965	Malaysia	1
+1602	recorded	1965	United States	3
+1603	recorded	1966	United States	99
+1604	recorded	1967	United States	18
+1605	recorded	1968	Ecuador	1
+1606	recorded	1968	Mexico	1
+1607	recorded	1968	United States	61
+1608	recorded	1969	Brazil	1
+1609	recorded	1969	United States	1
+1610	recorded	1973	Mexico	2
+1611	recorded	1974	Argentina	1
+1612	recorded	1974	Panama	1
+1613	recorded	1976	United States	1
+1614	recorded	1977	United States	2
+1615	recorded	1978	Ecuador	1
+1616	recorded	1981	Mexico	4
+1617	recorded	1981	United States	1
+1618	recorded	1982	Brazil	2
+1619	recorded	1984	Brazil	2
+1620	recorded	1984	United States	2
+1621	recorded	1985	French Guiana	1
+1622	recorded	1985	Guyana	354
+1623	recorded	1985	Mexico	1
+1624	recorded	1985	Venezuela	1
+1625	recorded	1986	Australia	374
+1626	recorded	1986	Guyana	2
+1627	recorded	1988	Brazil	2
+1628	recorded	1989	Belize	1
+1629	recorded	1989	Brazil	1
+1630	recorded	1990	Belize	41
+1631	recorded	1990	Brazil	2
+1632	recorded	1991	United States	4
+1633	recorded	1992	Australia	1
+1634	recorded	1992	Belize	4
+1635	recorded	1992	Brazil	7
+1636	recorded	1993	Australia	1
+1637	recorded	1993	Brazil	2
+1638	recorded	1994	Brazil	1
+1639	recorded	1996	Australia	1
+1640	recorded	1997	Colombia	1
+1641	recorded	1998	Australia	6
+1642	recorded	1998	Brazil	1
+1643	recorded	1998	United States	1
+1644	recorded	2000	Brazil	1
+1645	recorded	2000	United States	1
+1646	recorded	2002	Australia	1
+1647	recorded	2005	Malaysia	3
+1648	recorded	2012	United States	1
