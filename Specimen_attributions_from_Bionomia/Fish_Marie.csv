@@ -1,0 +1,2 @@
+action,gbifID,datasetKey,license,occurrenceID,basisOfRecord,dateIdentified,decimalLatitude,decimalLongitude,country,countryCode,eventDate,year,kingdom,family,identifiedBy,institutionCode,collectionCode,catalogNumber,recordedBy,scientificName,typeStatus,recordedByID,identifiedByID
+recorded,895363056,4bfac3ea-8763-4f4b-a71a-76a6f5f243d3,CC_BY_NC_4_0,MCZ:Ich:171120,PRESERVED_SPECIMEN,,,,,,1925-07-16,1925,Animalia,Exocoetidae,Bottle Label(s),MCZ,Ich,171120,M. P. Fish,"Cypselurus Swainson, 1838",,,
