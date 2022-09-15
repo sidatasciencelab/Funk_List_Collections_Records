@@ -6,7 +6,7 @@ library(ggtree)
 library(ggtreeExtra)
 # library(phytools)
 
-setwd('/Users/jennaekwealor/Documents/smithsonian/Funk_list/AWHI-collections-data')
+setwd('') # set your wd here
 
 # read in family list
 # df <- read.csv(file = "funk_list_deceased.csv", header = T, check.names = F)
