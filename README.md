@@ -14,3 +14,5 @@ Annual Reports files, both original JPGs, and unprocessed OCR outputs including 
 
 **Specimen_attributions_from_Bionomia** directory contains 'specimen' CSVs from Bionomia for 40 members of the Funk List with specimen attributions.
 
+**Mrs_Miss_from_GBIF_records.txt** is a list of all unique Mrs., Ms., and Miss entries found in the NMNH Extant Specimens dataset and the NMNH Paleobiology dataset, either in the recordedBy or identifiedBy fields.
+
